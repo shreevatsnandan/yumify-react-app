@@ -1,0 +1,51 @@
+
+.bgf {
+    position: relative;
+    background-image: url('home-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 99vw;
+}
+
+.content {
+    padding: 20px;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.front-head {
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 70px;
+}
+
+.sub-head {
+    font-family: "DM Sans", sans-serif;
+    font-style: normal;
+    margin: 20px 0px 20px 0px;
+}
+
+.front-btn button {
+    height: 44px;
+    font-weight: 500;
+    margin: 15px;
+    font-family: "DM Sans", sans-serif;
+    width: 145px;
+    border-width: 0px;
+    background-color: brown;
+    color: white;
+   
+    border-radius: 28px;
+}
+
+.front-btn button:hover {
+    cursor: pointer;
+    background-color: white;
+   border-width: 2px;
+    border-color: brown; 
+    color: brown;
+}

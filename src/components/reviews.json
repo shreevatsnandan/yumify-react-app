@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "profile_pic": "./assets/boy1.jpg",
+    "comment": "Great service and amazing food! Will definitely visit again."
+  },
+  {
+    "name": "Riya Sharma",
+    "profile_pic": "./assets/girl10.jpg",
+    "comment": "From the moment we stepped in, we felt welcomed. The food surpassed our expectations, and we left with smiles on our faces."
+  },
+  {
+    "name": "Tanisha Singh",
+    "profile_pic": "./assets/girl11.jpg",
+    "comment": "This restaurant truly knows how to create a memorable dining experience. Each dish was a masterpiece."
+  },
+  {
+    "name": "Ishaan Patel",
+    "profile_pic": "./assets/boy2.jpg",
+    "comment": "Absolutely loved the ambiance and the friendly staff. Highly recommended!"
+  },
+  {
+    "name": "Aaradhya Singh",
+    "profile_pic": "./assets/girl1.jpg",
+    "comment": "Delicious food with a wide variety of options. Perfect for any occasion!"
+  },
+  {
+    "name": "Advika Gupta",
+    "profile_pic": "./assets/girl2.jpg",
+    "comment": "Excellent service and attention to detail. Made our dining experience memorable."
+  },
+  {
+    "name": "Vihaan Reddy",
+    "profile_pic": "./assets/boy3.jpg",
+    "comment": "The food was top-notch and the presentation was impressive. Will be back soon!"
+  },
+  {
+    "name": "Aarohi Joshi",
+    "profile_pic": "./assets/girl3.jpg",
+    "comment": "Friendly staff, cozy atmosphere, and delicious food. A perfect combination!"
+  },
+  {
+    "name": "Anushka Gupta",
+    "profile_pic": "./assets/girl8.jpg",
+    "comment": "Absolutely delightful experience! The food was exquisite and the service was impeccable."
+  },
+  {
+    "name": "Ishika Verma",
+    "profile_pic": "./assets/girl9.jpg",
+    "comment": "I can't stop raving about this place! The flavors were extraordinary, and the ambiance was charming."
+  },
+  {
+    "name": "Reyansh Kumar",
+    "profile_pic": "./assets/boy4.jpg",
+    "comment": "Had a wonderful time here. The food exceeded my expectations!"
+  },
+  {
+    "name": "Kriti Desai",
+    "profile_pic": "./assets/girl4.jpg",
+    "comment": "The staff went above and beyond to make our dining experience enjoyable. Highly impressed!"
+  },
+  {
+    "name": "Ayaan Gupta",
+    "profile_pic": "./assets/boy5.jpg",
+    "comment": "Loved every bite! The flavors were amazing and the service was excellent."
+  },
+  {
+    "name": "Ananya Sharma",
+    "profile_pic": "./assets/girl5.jpg",
+    "comment": "The food was delicious and the staff was very attentive. Will definitely recommend to friends!"
+  },
+  {
+    "name": "Subhangi Singh",
+    "profile_pic": "./assets/girl7.jpg",
+    "comment": "Great value for money and excellent food quality. Couldn't ask for more!"
+  },
+  {
+    "name": "Saanvi Patel",
+    "profile_pic": "./assets/girl6.jpg",
+    "comment": "A wonderful dining experience from start to finish. Will be back for sure!"
+  }
+]

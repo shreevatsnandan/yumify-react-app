@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+.Bookings {
+    position: relative;
+    background-image: url('reservation-book.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.booking-form{
+    background-color: rgba(0, 0, 0, 0.075);
+    padding: 15px;
+    border-radius: 25px;
+    display: flex;
+    margin-top: 60px;
+    margin: 20px;
+    flex-direction: column;
+
+}
+
+.booking-head{
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+    font-style: normal;
+}
+
+.form-al{
+    display: flex;
+    font-size: 20px;
+    
+    margin: 10px;
+}
+
+label{
+    margin: 20px;
+}
+
+.nop{
+    margin-left: 20px;
+    height: 30px;
+    width: 300px;
+    border-radius: 25px;
+    font-size: 18px;
+    padding: 5px;
+    border: none;
+
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+
+
+
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 25px;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px;
+    border: none;
+}
+
+input:focus {
+    outline: none;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.56);
+  }
+
+.btn-bookings{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-bookings button {
+    height: 44px;
+    font-weight: 500;
+    margin: 15px;
+    font-family: "DM Sans", sans-serif;
+    width: 145px;
+    border-width: 0px;
+    background-color: brown;
+    color: white;
+   
+    border-radius: 28px;
+}
+
+.btn-bookings button:hover {
+    cursor: pointer;
+    background-color: white;
+   border-width: 2px;
+    border-color: brown; 
+    color: brown;
+}

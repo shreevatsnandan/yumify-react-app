@@ -1,0 +1,74 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-type{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    height: 350px;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 20%;
+    margin: 4%;
+    padding: 10px;
+}
+
+.menu-type-logo{
+    width: 5vw;
+    height: 5vw;
+    border-radius: 25vh;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+    background-color: rgb(220, 217, 217);
+}
+
+.menu-type-logo img{
+    width: 30px;
+    height: 30px;
+}
+
+
+.option-head{
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+.option-disc{
+    padding-top: 10px;
+}
+
+.option-exp button {
+    margin-top: 30px;
+    height: 44px;
+    width: 145px;
+    border-color: brown;
+    border-width: 2px;
+    border-radius: 28px;
+}
+
+.option-exp button:hover{
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color: brown;
+}

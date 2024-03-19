@@ -1,0 +1,25 @@
+.footer{
+    background-color: grey;
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 0+40px 90px;
+}
+
+.app-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.app-name:hover{
+    cursor: pointer;
+}
+
+.pages li:hover {
+cursor: pointer;
+  }

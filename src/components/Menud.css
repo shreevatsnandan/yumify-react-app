@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.dish-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .dish-card {
+    width: calc(25% - 20px);
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
+  .dish-card img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover; 
+    border-radius: 8px;
+  }
+  
+  .dish-card h3 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .dish-card p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .buttons{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .buttons button {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    height: 44px;
+    width: 145px;
+    border-color: brown;
+    border-width: 2px;
+    border-radius: 28px;
+}
+
+.buttons button:hover{
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color: brown;
+}
+
+.menu-head{
+    display: flex;
+    justify-content: center;
+}
+
+.menu-head h2{
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.order-btn button {
+    height: 44px;
+    font-weight: 500;
+    margin: 15px;
+    font-family: "DM Sans", sans-serif;
+    width: 145px;
+    border-width: 0px;
+    background-color: brown;
+    color: white;
+   
+    border-radius: 28px;
+}
+
+.order-btn button:hover {
+    cursor: pointer;
+    background-color: white;
+   border-width: 2px;
+    border-color: brown; 
+    color: brown;
+}
+
+.buttons{
+  position: sticky;
+}

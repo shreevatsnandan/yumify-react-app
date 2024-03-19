@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.about-img img{
+    width: 579px;
+    height: 649px;
+    border-radius: 15px;
+}
+
+.about-img{
+    padding-left: 5%;
+}
+
+.about-img{
+    z-index: -1;
+}
+
+.about-cnt{
+
+    z-index: 1;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    background-color: gray;
+    color: whitesmoke;
+    padding: 7%;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+
+.about-box{
+    position:relative;
+    width: 150%;
+    display: flex;
+
+
+}
+
+.abt-cnt-phone{
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+}
+
+.about-types{
+    display: flex;
+}
+
+.abt-txt-head{
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+
+.abt-txt{
+    display: flex;
+    flex-direction: column;
+}
+
+.abt-txt-sub-head{
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.abt-txt-gn-txt{
+    font-size: 20px;
+}
+
+.btn-abt{
+    margin: 40px;
+}
+
+.btn-abt button {
+    height: 44px;
+    font-weight: 500;
+    margin: 15px;
+    font-family: "DM Sans", sans-serif;
+    width: 145px;
+    border-width: 0px;
+    background-color: brown;
+    color: white;
+   
+    border-radius: 28px;
+}
+
+.btn-abt button:hover {
+    cursor: pointer;
+    background-color: white;
+   border-width: 2px;
+    border-color: brown; 
+    color: brown;
+}
+
+.about-types{
+    margin-top: 10px;
+}

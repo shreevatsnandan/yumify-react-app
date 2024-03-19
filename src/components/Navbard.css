@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.nav{
+    display: flex;
+    background-color: whitesmoke;
+    justify-content: space-between;
+}
+
+
+
+.logo{
+    height: 120px;
+    width: 120px;
+}
+
+.app-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.app-name:hover{
+    cursor: pointer;
+}
+
+.page-navigate ul {
+    list-style-type: none;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.page-navigate ul li {
+    padding: 10px; 
+}
+
+.page-navigate ul li:hover{
+    cursor: pointer;
+}
+
+
+.table-book {
+    padding-top: 35px;
+    padding-right: 25px;
+}
+
+.table-book button {
+    height: 44px;
+    width: 145px;
+    border-color: brown;
+    border-width: 2px;
+    border-radius: 28px;
+}
+
+.table-book button:hover{
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color: brown;
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+.service-type{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    height: 450px;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    width: 20%;
+    margin: 4%;
+    padding: 10px;
+}
+
+.service-type-logo img{
+    width:250px;
+    height: 250px;
+}
+
+.services{
+    display: flex;
+    justify-content: space-between;
+}
+
+.service-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.service-disc{
+    padding-top: 10px;
+}

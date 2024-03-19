@@ -1,0 +1,316 @@
+[
+    {
+      "name": "Bruschetta",
+      "price": 400,
+      "picture": "./assets/bruschetta.jpg"  ,  
+      "type": "Starter"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 350,
+      "picture": "./assets/caesar_salad.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 450,
+      "picture": "./assets/chicken_wings.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 320,
+      "picture": "./assets/garlic_bread.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 380,
+      "picture": "./assets/spring_rolls.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 420,
+      "picture": "./assets/mozzarella_sticks.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Nachos",
+      "price": 470,
+      "picture": "./assets/nachos.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Onion Rings",
+      "price": 400,
+      "picture": "./assets/onion_rings.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Potato Skins",
+      "price": 350,
+      "picture": "./assets/potato_skins.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Shrimp Cocktail",
+      "price": 480,
+      "picture": "./assets/shrimp_cocktail.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Stuffed Mushrooms",
+      "price": 420,
+      "picture": "./assets/stuffed_mushrooms.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Salad",
+      "price": 280,
+      "picture": "./assets/salad.jpg",
+      "type": "Starter"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "price": 1200,
+      "picture": "./assets/spaghetti_carbonara.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Grilled Salmon",
+      "price": 1400,
+      "picture": "./assets/grilled_salmon.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Beef Steak",
+      "price": 1600,
+      "picture": "./assets/beef_steak.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Chicken Parmesan",
+      "price": 1100,
+      "picture": "./assets/chicken_parmesan.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "price": 900,
+      "picture": "./assets/vegetable_stir_fry.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Lobster Ravioli",
+      "price": 1500,
+      "picture": "./assets/lobster_ravioli.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Mushroom Risotto",
+      "price": 1300,
+      "picture": "./assets/mushroom_risotto.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Lamb Chops",
+      "price": 1550,
+      "picture": "./assets/lamb_chops.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "price": 1000,
+      "picture": "./assets/eggplant_parmesan.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Seafood Paella",
+      "price": 1450,
+      "picture": "./assets/seafood_paella.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Chicken Fajitas",
+      "price": 1150,
+      "picture": "./assets/chicken_fajitas.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Tacos",
+      "price": 800,
+      "picture": "./assets/tacos.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Hamburger",
+      "price": 900,
+      "picture": "./assets/hamburger.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Fish and Chips",
+      "price": 1000,
+      "picture": "./assets/fish_and_chips.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Pasta Primavera",
+      "price": 850,
+      "picture": "./assets/pasta_primavera.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "BBQ Ribs",
+      "price": 1300,
+      "picture": "./assets/bbq_ribs.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Sushi",
+      "price": 1400,
+      "picture": "./assets/sushi.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Pho",
+      "price": 1200,
+      "picture": "./assets/pho.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Pad Thai",
+      "price": 950,
+      "picture": "./assets/pad_thai.jpg",
+      "type": "Main Course"
+    },
+    {
+      "name": "Pizza",
+      "price": 800,
+      "picture": "./assets/pizza.jpg",
+      "type": "Main Course"
+    },
+  
+    {
+      "name": "Mojito",
+      "price": 500,
+      "picture": "./assets/mojito.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Iced Coffee",
+      "price": 400,
+      "picture": "./assets/iced_coffee.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Orange Juice",
+      "price": 350,
+      "picture": "./assets/orange_juice.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Margarita",
+      "price": 600,
+      "picture": "./assets/margarita.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "price": 650,
+      "picture": "./assets/long_island_iced_tea.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Cosmopolitan",
+      "price": 550,
+      "picture": "./assets/cosmopolitan.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 380,
+      "picture": "./assets/hot_chocolate.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "price": 420,
+      "picture": "./assets/strawberry_milkshake.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 450,
+      "picture": "./assets/cappuccino.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Green Tea",
+      "price": 320,
+      "picture": "./assets/green_tea.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Lemonade",
+      "price": 300,
+      "picture": "./assets/lemonade.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Smoothie",
+      "price": 550,
+      "picture": "./assets/smoothie.jpg",
+      "type": "Drink"
+    },
+    {
+      "name": "Cheesecake",
+      "price": 700,
+      "picture": "./assets/cheesecake.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Chocolate Fondue",
+      "price": 800,
+      "picture": "./assets/chocolate_fondue.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Tiramisu",
+      "price": 600,
+      "picture": "./assets/tiramisu.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Apple Pie",
+      "price": 650,
+      "picture": "./assets/apple_pie.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Creme Brulee",
+      "price": 550,
+      "picture": "./assets/creme_brulee.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Lava Cake",
+      "price": 750,
+      "picture": "./assets/lava_cake.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Panna Cotta",
+      "price": 500,
+      "picture": "./assets/panna_cotta.jpg",
+      "type": "Dessert"
+    },
+    {
+      "name": "Banoffee Pie",
+      "price": 800,
+      "picture": "./assets/banoffee_pie.jpg",
+      "type": "Dessert"
+    }
+  ]
+  
